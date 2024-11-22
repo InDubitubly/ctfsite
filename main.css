@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(225, 216, 164);
+}
+
+.header{
+    font-size: 36pt;
+    flex: 1;
+    color:rgb(0, 112, 112);
+    margin: auto;
+    
+}
+
+main{
+    flex:4;
+    font-size: 24pt;
+}
